@@ -2,7 +2,7 @@
 
 A modern fitness management platform designed to help gym owners, trainers, and members streamline daily operations through intelligent analytics, member management, workout tracking, and AI-powered fitness assistance.
 
-Live Demo: https://gym-management-system-8xrclaqg7jmasuobtttxkv.streamlit.app/
+Live Demo: https://gym-management-system-be8janwke35juesqmq3d8c.streamlit.app/
 
 ---
 
